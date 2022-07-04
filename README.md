@@ -1,0 +1,2 @@
+# Zarinlight.bot
+Zarinlight
